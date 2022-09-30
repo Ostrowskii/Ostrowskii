@@ -2,7 +2,7 @@
 - 👀 I’m interested in building simple games.
 - 🌱 I’m currently learning how to use Git hub XD
 - 💞️ I’m looking to collaborate on Game projects or anything that give me a job that i can learn how to code
-- 📫 How to reach me: loweedev@gmail.com
+- 📫 How to reach me:
 
 <!---
 Ostrowskii/Ostrowskii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
