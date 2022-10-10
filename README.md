@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ostrowskii
-- 👀 I’m interested in building simple games.
+- 👀 I’m interested in learn.
 - 🌱 I’m currently learning how to use Git hub XD
-- 💞️ I’m looking to collaborate on Game projects or anything that give me a job that i can learn how to code
+- 💞️ I’m looking to collaborate on anything that give me a job that i can learn how to code
 - 📫 How to reach me:
 
 <!---
