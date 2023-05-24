@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ostrowskii
 - 👀 I’m interested in learn.
-- 🌱 I’m currently learning how to use Git hub XD
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on anything that give me a job that i can learn how to code
 - 📫 How to reach me:
 
