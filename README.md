@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn.
 - 🌱 I’m currently learning how to become better
 - 💞️ I’m looking to collaborate with you
-- 
+
 I’m Lucy. I’m passionate about logic, and I enjoy solving complex problems with automation and organization.
 
 <!---
