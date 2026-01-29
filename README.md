@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn.
 - 🌱 I’m currently learning how to become better
 - 💞️ I’m looking to collaborate with you
-- 📫 How to reach me:
+I’m Lucy. I’m passionate about logic, and I enjoy solving complex problems with automation and organization.
 
 <!---
 Ostrowskii/Ostrowskii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
